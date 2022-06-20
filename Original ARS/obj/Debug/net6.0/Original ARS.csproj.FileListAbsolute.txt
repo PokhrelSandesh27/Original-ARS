@@ -1,0 +1,26 @@
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\bin\Debug\net6.0\appsettings.json
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\bin\Debug\net6.0\Original ARS.staticwebassets.runtime.json
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\bin\Debug\net6.0\Original ARS.exe
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\bin\Debug\net6.0\Original ARS.deps.json
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\bin\Debug\net6.0\Original ARS.runtimeconfig.json
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\bin\Debug\net6.0\Original ARS.dll
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\bin\Debug\net6.0\Original ARS.pdb
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\obj\Debug\net6.0\Original ARS.csproj.AssemblyReference.cache
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\obj\Debug\net6.0\Original ARS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\obj\Debug\net6.0\Original ARS.AssemblyInfoInputs.cache
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\obj\Debug\net6.0\Original ARS.AssemblyInfo.cs
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\obj\Debug\net6.0\Original ARS.csproj.CoreCompileInputs.cache
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\obj\Debug\net6.0\Original ARS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\obj\Debug\net6.0\Original ARS.RazorAssemblyInfo.cache
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\obj\Debug\net6.0\Original ARS.RazorAssemblyInfo.cs
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\obj\Debug\net6.0\scopedcss\bundle\Original ARS.styles.css
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\obj\Debug\net6.0\scopedcss\projectbundle\Original ARS.bundle.scp.css
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\obj\Debug\net6.0\Original ARS.dll
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\obj\Debug\net6.0\refint\Original ARS.dll
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\obj\Debug\net6.0\Original ARS.pdb
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\obj\Debug\net6.0\Original ARS.genruntimeconfig.cache
+C:\Users\Sandesh Pokhrel\source\repos\Original ARS\Original ARS\obj\Debug\net6.0\ref\Original ARS.dll
